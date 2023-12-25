@@ -1,0 +1,122 @@
+.footer-container{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: space-between;
+    margin-top: 10px;
+   
+}
+@media (max-width:600px) {.footer-container{
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    
+    
+    }
+    
+    
+}
+
+.left-footer{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: flex-start;
+}
+.image-footer{
+   width: 100px;
+   
+}
+.image-retro1{
+   
+    width: 100px;
+    height: 90px;
+    
+}
+.footer-upper-text{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: rgb(165, 164, 164);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer-middle-text{
+    margin-top: 0px;
+    margin-bottom: 9px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 2, 36);
+}
+.footer-lower-text{
+    margin-top: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.middle-footer{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: flex-start;
+}
+.image-footer{
+   width: 100px;
+   
+}
+.image-retro2{
+   
+    width: 100px;
+    height: 90px;
+    
+}
+.footer-upper-text{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: rgb(165, 164, 164);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer-middle-text{
+    margin-top: 0px;
+    margin-bottom: 9px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 2, 36);
+}
+.footer-lower-text{
+    margin-top: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.right-footer{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: flex-start;
+}
+.image-footer{
+   width: 100px;
+   
+}
+.image-retro3{
+   
+    width: 100px;
+    height: 90px;
+    
+}
+.footer-upper-text{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: rgb(165, 164, 164);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer-middle-text{
+    margin-top: 0px;
+    margin-bottom: 9px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 2, 36);
+    
+}
+.footer-lower-text{
+    margin-top: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: rgb(72, 73, 100);
+}
+
+    
+
